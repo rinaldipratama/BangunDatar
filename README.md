@@ -1,5 +1,5 @@
 # BangunDatar
-Program Menghitung Luas dan Keliling Bangun Datar dengan Java OOP
+Program Menghitung Luas dan Keliling Bangun Datar dengan Java OOP Berbasis CLI.
 
 # Fitur Dalam Program Ini
 Menghitung Luas dan Keliling dari Bangun Datar:
