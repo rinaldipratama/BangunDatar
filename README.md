@@ -13,8 +13,7 @@ Menghitung Luas dan Keliling dari Bangun Datar:
 8. Lingkaran
 
 # Cara Menjalankan Program
-Silahkan buka IDE Intellij Idea kemudian pilih file > open > terus pilih folder yang ingin dibuka (dalam project ini BangunDatar), 
-jika menggunakan IDE lain (contoh: NetBeans) bisa dengan membuka foldernya (BangunDatar) atau buka file dari folder src/com/dicoding/javafundamental/bangundatar/.
+Silahkan buka IDE Intellij Idea kemudian pilih file > open > terus pilih folder project yang ingin dibuka (dalam project ini BangunDatar).
 
 # Versi Java
-Versi Java yang direkomendasikan untuk menjalankan program ini adalah versi 10 ke atas.
+Versi Java yang direkomendasikan untuk menjalankan program ini adalah versi 10 ke atas untuk menghindari kesalahan.
